@@ -16,4 +16,8 @@ __all__ = ["bingsearch",
            "netcraft",
            "crtsh",
            "virustotal",
+           "threatcrowd",
+           "wfuzz_search",
+           "port_scanner",
+           "takeover",
            "googleCSE"]
